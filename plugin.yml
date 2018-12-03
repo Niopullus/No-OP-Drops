@@ -1,0 +1,4 @@
+name: No-Op-Drops
+version: 0.1
+main: NoOPDrops
+description: Disables mob drops from iron golems and zombie pigmen.
